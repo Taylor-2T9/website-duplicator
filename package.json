@@ -1,0 +1,16 @@
+{
+  "name": "website-duplicator",
+  "version": "1.0.0",
+  "description": "Um script simples para gerar uma cópia HTML de uma página web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taylor-2t9",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "fs": "^0.0.1-security",
+    "jsdom": "^19.0.0"
+  }
+}
